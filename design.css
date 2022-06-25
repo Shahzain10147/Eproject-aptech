@@ -159,6 +159,7 @@ ul {
     resize: none;
     text-align: center;
     margin-left: 28%;
+    padding: 40px;
 }
   /* signuppage css ends */
   #para1{
@@ -194,6 +195,7 @@ ul {
   float: left;
   margin-left: 200px;
   margin-top: 30px;
+  
   }
   #homeimages:hover{
     cursor:pointer;
